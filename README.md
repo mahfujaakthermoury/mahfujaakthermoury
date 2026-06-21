@@ -29,6 +29,8 @@ I am eager to join a development team where I can learn, contribute, and grow as
 
 </br>
 
+<!-- Connect with me -->
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 
@@ -40,56 +42,68 @@ I am eager to join a development team where I can learn, contribute, and grow as
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
+  <a href="https://www.linkedin.com/in/mahfuja-akther-849075299/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </p>
 
 
 </br>
 
 
-
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
 </p>
 
 ### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
 </p>
-
 
 ## 🚀 Deployment & Tools
 <p align="left">
 
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
 
-  <!-- Deployment -->
-<a href="https://www.netlify.com" target="_blank">
-    <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <a href="https://www.netlify.com" target="_blank">
+    <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" title="Netlify" />
   </a>
-  
+
   <a href="https://vercel.com" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel" />
   </a>
 
   <a href="https://firebase.google.com/products/hosting" target="_blank">
-    <img src="https://img.shields.io/badge/Firebase%20Hosting-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Hosting"/>
+    <img src="https://img.shields.io/badge/Firebase%20Hosting-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" title="Firebase Hosting" />
   </a>
-
 
 </p>
 
 ---
 
-
-
 ### 🎨 Design Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,canva" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=photoshop" title="Photoshop" />
 </p>
+
 
 ---
 
