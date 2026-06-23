@@ -21,7 +21,7 @@
 
 ## 🌟 About Me
 
-I am a B.Sc Student in Computer Science and Engineering (CSE) student with a strong interest in Full Stack Web Development. I am actively building my skills to pursue a career as a Junior Web Developer.
+I am a B.Sc in Computer Science and Engineering (CSE) student with a strong interest in Full Stack Web Development. I am actively building my skills to pursue a career as a Full Stack Web Developer.
 
 I have experience working with HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Node.js, Express.js, MongoDB and Firebase, and I am currently expanding my knowledge in  TypeScript, and Next.js.I enjoy building responsive and user-friendly web applications and continuously improving my problem-solving skills through real-world projects.
 
