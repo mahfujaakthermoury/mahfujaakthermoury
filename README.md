@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfujaakthermoury&label=Profile%20views&color=0e75b6&style=flat" alt="mahfujaakthermoury" /> </p>
+<p align="left"> <img src="a_professional_and_sleek_github_profile.png" alt="mahfujaakthermoury" /> </p>
 
 <!-- <p align="center">
   <img 
