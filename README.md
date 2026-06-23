@@ -1,4 +1,4 @@
-<p align="left"> <img src="a_professional_and_sleek_github_profile.png" alt="mahfujaakthermoury" /> </p>
+<p align="left"> <img src="github-banner.png" alt="mahfujaakthermoury" /> </p>
 
 <!-- <p align="center">
   <img 
