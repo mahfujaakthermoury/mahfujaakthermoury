@@ -21,11 +21,13 @@
 
 ## 🌟 About Me
 
-I am a B.Sc in Computer Science and Engineering (CSE) student with a strong interest in Full Stack Web Development. I am actively building my skills to pursue a career as a Full Stack Web Developer.
+I am a B.Sc. in Computer Science and Engineering (CSE) student with a strong passion for Full Stack Web Development. I build modern, responsive, and user-friendly web applications using the MERN stack and continuously expand my skills through real-world projects.
 
-I have experience working with HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Node.js, Express.js, MongoDB and Firebase, and I am currently expanding my knowledge in  TypeScript, and Next.js.I enjoy building responsive and user-friendly web applications and continuously improving my problem-solving skills through real-world projects.
+My experience includes working with HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Node.js, Express.js, MongoDB, and Firebase. I am also exploring TypeScript and Next.js to develop more scalable and maintainable applications.
 
-I am eager to join a development team where I can learn, contribute, and grow as a professional web developer.
+Through my projects, I have implemented authentication systems, REST APIs, database management, role-based dashboards, payment integration, and responsive user interfaces. I enjoy solving real-world problems through technology and continuously improving my development and problem-solving skills.
+
+I am seeking an opportunity to contribute to a development team, learn from experienced engineers, and grow as a Full Stack Web Developer.
 
 </br>
 
