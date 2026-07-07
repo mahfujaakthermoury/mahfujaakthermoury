@@ -110,8 +110,8 @@ I am seeking an opportunity to contribute to a development team, learn from expe
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-4wdo8h6io-mahfuja-akthers-projects.vercel.app/api?username=mahfujaakthermoury" alt="stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujaakthermoury&" alt="mahfujaakthermoury" />
+  <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujaakthermoury&" alt="mahfujaakthermoury" />
+  <img align="middle" src="https://github-readme-stats-ten-theta-96.vercel.app/api?username=mahfujaakthermoury&" />
 </p>
 
 
@@ -119,9 +119,8 @@ I am seeking an opportunity to contribute to a development team, learn from expe
 
 ## 💡 Top Languages
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfujaakthermoury&layout=compact" alt="top langs" />
-  <img src="https://github-readme-stats-4wdo8h6io-mahfuja-akthers-projects.vercel.app/api/top-langs/?username=mahfujaakthermoury&layout=compact" alt="top langs" /> -->
-  
+  <img src="https://github-readme-stats-ten-theta-96.vercel.app/api/top-langs/?username=mahfujaakthermoury&layout=compact&" />
+  <!-- <img src="https://github-readme-stats-ten-theta-96.vercel.app/api/top-langs/?username=mahfujaakthermoury&layout=compact&theme=tokyonight" /> -->
 </p>
 
 
