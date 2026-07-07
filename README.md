@@ -111,7 +111,7 @@ I am seeking an opportunity to contribute to a development team, learn from expe
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahfujaakthermoury&show_icons=true" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujaakthermoury" alt="streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujaakthermoury&" alt="mahfujaakthermoury" />
 </p>
 
 
@@ -120,7 +120,9 @@ I am seeking an opportunity to contribute to a development team, learn from expe
 ## 💡 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfujaakthermoury&layout=compact" alt="top langs" />
+  
 </p>
+
 
 ---
 
