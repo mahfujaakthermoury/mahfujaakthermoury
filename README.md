@@ -61,7 +61,7 @@ I am seeking an opportunity to contribute to a development team, learn from expe
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <!-- <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" /> -->
   <img src="https://skillicons.dev/icons?i=react" title="React" />
   <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
 </p>
@@ -110,7 +110,7 @@ I am seeking an opportunity to contribute to a development team, learn from expe
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujaakthermoury&" alt="mahfujaakthermoury" />
+  <img align="middle" padding="5px" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujaakthermoury&" alt="mahfujaakthermoury" />
   <img align="middle" src="https://github-readme-stats-ten-theta-96.vercel.app/api?username=mahfujaakthermoury&" />
 </p>
 
